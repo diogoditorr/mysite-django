@@ -1,0 +1,6 @@
+.venv
+.vscode
+.prettierrc
+.env
+*.sqlite3
+__pycache__
